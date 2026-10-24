@@ -1,4 +1,4 @@
-!/usr/bin/node
+#!/usr/bin/node
 /*
     Print a square of a given size with '#'
 */
